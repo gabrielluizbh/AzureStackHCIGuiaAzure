@@ -24,5 +24,5 @@ Parte 4 - Crie cluster aninhado Azure Stack HCI 20H2 com o Windows Admin Center.
 
 Parte 5 - Explore o gerenciamento do seu ambiente Azure Stack HCI 20H2.pdf
 
-Agradecimentos
-Obrigado ao Matt McSpirit, Azure Stack Technical Sales at Microsoft, por ser tão prestativo e solícito, ao tirar as minhas dúvidas sobre o Azure Stack HCI.
+**Agradecimentos
+Obrigado ao Matt McSpirit, Azure Stack Technical Sales at Microsoft, por ser tão prestativo e solícito, ao tirar as minhas dúvidas sobre o Azure Stack HCI.**
