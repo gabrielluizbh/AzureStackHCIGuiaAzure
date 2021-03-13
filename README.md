@@ -4,6 +4,14 @@ Este guia traduzido para português do Brasil do documento Azure Stack HCI 20H2 
 
 Apenas foi traduzidos para português do Brasil as partes 1b, 2a, 3a, 4 e 5. Sendo trilha para implantação do Azure Stack HCI 20H2 usando a virtualização aninhada no Azure.
 
+Neste guia, vamos orientá-lo experimentando uma série de capacidades incríveis dentro do Azure Stack HCI 20H2, e definir as bases para você explorar em seu próprio tempo. Você cobrirá aspectos como:
+
+Implantando nódulos Azure Stack HCI 20H2
+Implantação de infraestrutura de gerenciamento de suporte, incluindo o domínio do Active Directory e a ferramenta de gerenciamento
+Construindo um cluster hiperconverged usando o Windows Admin Center, incluindo a configuração de uma testemunha na nuvem
+Registrando Azure Stack HCI 20H2 com Azure
+e mais...!
+
 Conteúdo:
 
 Parte 1b - Implantar o host de Hyper-V no Azure.pdf
