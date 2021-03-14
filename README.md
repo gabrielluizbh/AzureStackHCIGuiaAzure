@@ -6,10 +6,14 @@
 
 Neste guia, vou orientá-lo experimentando uma série de capacidades incríveis dentro do Azure Stack HCI 20H 2 usando a virtualização aninhada no Azure, e definir as bases para você explorar em seu próprio tempo. Você cobrirá aspectos como:
 
-Implantando nódulos Azure Stack HCI 20H2
-Implantação de infraestrutura de gerenciamento de suporte, incluindo o domínio do Active Directory e a ferramenta de gerenciamento
-Construindo um cluster hiperconverged usando o Windows Admin Center, incluindo a configuração de uma testemunha na nuvem
-Registrando Azure Stack HCI 20H2 com Azure
+Implantando nódulos Azure Stack HCI 20H2.
+
+Implantação de infraestrutura de gerenciamento de suporte, incluindo o domínio do Active Directory e a ferramenta de gerenciamento Windows Admin Center.
+
+Construindo um cluster hiperconverged usando o Windows Admin Center, incluindo a configuração de uma testemunha em nuvem.
+
+Registrando Azure Stack HCI 20H2 no Azure.
+
 e mais...!
 
 **Conteúdo:**
