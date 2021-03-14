@@ -4,7 +4,7 @@
 
 **Apenas foi traduzidos para português do Brasil as partes 1b, 2a, 3a, 4 e 5. Sendo trilha para implantação do Azure Stack HCI 20H2 usando a virtualização aninhada no Azure.**
 
-Neste guia, vou orientá-lo experimentando uma série de capacidades incríveis dentro do Azure Stack HCI 20H 2usando a virtualização aninhada no Azure, e definir as bases para você explorar em seu próprio tempo. Você cobrirá aspectos como:
+Neste guia, vou orientá-lo experimentando uma série de capacidades incríveis dentro do Azure Stack HCI 20H 2 usando a virtualização aninhada no Azure, e definir as bases para você explorar em seu próprio tempo. Você cobrirá aspectos como:
 
 Implantando nódulos Azure Stack HCI 20H2
 Implantação de infraestrutura de gerenciamento de suporte, incluindo o domínio do Active Directory e a ferramenta de gerenciamento
