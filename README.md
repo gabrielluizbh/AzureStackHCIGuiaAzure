@@ -32,4 +32,6 @@ Parte 5 - Explore o gerenciamento do seu ambiente Azure Stack HCI 20H2.pdf
 
 **Obrigado ao Matt McSpirit, Azure Stack Technical Sales at Microsoft, por ser tão prestativo e solícito, ao tirar as minhas dúvidas sobre o Azure Stack HCI.**
 
+Para maior entendimento do guia acesse o link do artigo: https://cooperati.com.br/2021/03/avalie-o-azure-stack-hci-20h2-usando-a-virtualizacao-aninhada-no-azure/
+
 **Créditos da tradução para português do Brasil - Gabriel Luiz - www.gabrielluiz.com**
