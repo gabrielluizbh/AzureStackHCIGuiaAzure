@@ -28,6 +28,8 @@ Parte 4 - Crie cluster aninhado Azure Stack HCI 20H2 com o Windows Admin Center.
 
 Parte 5 - Explore o gerenciamento do seu ambiente Azure Stack HCI 20H2.pdf
 
+Slides da apresentação ao vivo - Modernizer o seu datacenter com Azure Stack HCI.pptx
+
 
 **Agradecimentos**
 
